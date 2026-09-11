@@ -1,0 +1,10 @@
+title: "부동산 청약 & 주거 정책 연구소"
+description: "아파트 청약 가점, 공공분양, 디딤돌·버팀목 대출 자격 및 전세보증보험 팩트 체크."
+url: "https://estate-kr.enjoy-onepage.com"
+baseurl: ''
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
